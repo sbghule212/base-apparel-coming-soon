@@ -138,7 +138,7 @@ body {
 }
 
 .right {
-  background: url(/images/hero-mobile.jpg);
+  background: url(./images/hero-mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
