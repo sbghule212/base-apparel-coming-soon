@@ -224,7 +224,7 @@ input:focus {
     flex-direction: column;
     justify-content: center;
     width: 60%;
-    background-image: url(/images/bg-pattern-desktop.svg);
+    background-image: url(./images/bg-pattern-desktop.svg);
     height: 100vh;
   }
 
@@ -243,7 +243,7 @@ input:focus {
   }
 
   .right {
-    background: url(/images/hero-desktop.jpg);
+    background: url(./images/hero-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
